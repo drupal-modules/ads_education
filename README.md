@@ -1,4 +1,4 @@
-ads_education
-=============
+ads_animals
+===========
 
-Provides common Education features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
